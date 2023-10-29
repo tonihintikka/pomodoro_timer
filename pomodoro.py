@@ -178,5 +178,4 @@ def pomodoro_timer_with_speech():
     message = "Thank you for using the Pomodoro Timer!"
     say_and_print(message)
 
-# Commented out for this environment.
 pomodoro_timer_with_speech()
